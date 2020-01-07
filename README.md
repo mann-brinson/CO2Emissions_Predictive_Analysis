@@ -3,7 +3,7 @@ INF 550 Emissions Project
 
 **USER GUIDE**
 
-**DESCRIPTION:** This application will create and run machine-learning models against US state emissions, economic, energy production, and energy consumption tables to predict future emissions.
+**DESCRIPTION:** This application will create and run machine-learning models against US state emissions, economic, energy production, and energy consumption tables to predict future emissions. This project was based off of an assignment for USC INF 550 in Fall 2019 - Data Science at Scale, advised by Prof. Seon Ho Kim. 
 
 **HOW TO RUN THE PYTHON APPLICATION**
 
