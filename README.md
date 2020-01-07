@@ -1,4 +1,8 @@
-# Predictive Analysis of State CO2 Emissions  
+
+
+# Predictive Analysis of State CO2 Emissions 
+
+![final_output](/images/decision_tree_1.jpg)
 
 **USER GUIDE**
 
