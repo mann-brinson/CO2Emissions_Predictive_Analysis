@@ -1,5 +1,4 @@
 # Predictive Analysis of State CO2 Emissions  
-INF 550 Emissions Project
 
 **USER GUIDE**
 
