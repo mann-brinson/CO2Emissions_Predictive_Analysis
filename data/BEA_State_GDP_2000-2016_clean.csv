@@ -1,0 +1,851 @@
+Year,State,GDP,Unit,State_Code
+2000,Alabama,119242.4,Millions of current dollars,AL
+2001,Alabama,122449.3,Millions of current dollars,AL
+2002,Alabama,127792.3,Millions of current dollars,AL
+2003,Alabama,133739.2,Millions of current dollars,AL
+2004,Alabama,146524.7,Millions of current dollars,AL
+2005,Alabama,155970.4,Millions of current dollars,AL
+2006,Alabama,163853.6,Millions of current dollars,AL
+2007,Alabama,169678.4,Millions of current dollars,AL
+2008,Alabama,172686.8,Millions of current dollars,AL
+2009,Alabama,168348.0,Millions of current dollars,AL
+2010,Alabama,174753.0,Millions of current dollars,AL
+2011,Alabama,181349.8,Millions of current dollars,AL
+2012,Alabama,186299.0,Millions of current dollars,AL
+2013,Alabama,191481.0,Millions of current dollars,AL
+2014,Alabama,194211.0,Millions of current dollars,AL
+2015,Alabama,200402.7,Millions of current dollars,AL
+2016,Alabama,203829.8,Millions of current dollars,AL
+2000,Alaska,26778.3,Millions of current dollars,AK
+2001,Alaska,28420.4,Millions of current dollars,AK
+2002,Alaska,29605.3,Millions of current dollars,AK
+2003,Alaska,31799.7,Millions of current dollars,AK
+2004,Alaska,34970.7,Millions of current dollars,AK
+2005,Alaska,39774.8,Millions of current dollars,AK
+2006,Alaska,44435.3,Millions of current dollars,AK
+2007,Alaska,48972.6,Millions of current dollars,AK
+2008,Alaska,54752.4,Millions of current dollars,AK
+2009,Alaska,49585.9,Millions of current dollars,AK
+2010,Alaska,52882.5,Millions of current dollars,AK
+2011,Alaska,56259.9,Millions of current dollars,AK
+2012,Alaska,57670.1,Millions of current dollars,AK
+2013,Alaska,56622.8,Millions of current dollars,AK
+2014,Alaska,55523.4,Millions of current dollars,AK
+2015,Alaska,50641.6,Millions of current dollars,AK
+2016,Alaska,49363.4,Millions of current dollars,AK
+2000,Arizona,164611.6,Millions of current dollars,AZ
+2001,Arizona,171474.2,Millions of current dollars,AZ
+2002,Arizona,179413.3,Millions of current dollars,AZ
+2003,Arizona,192751.2,Millions of current dollars,AZ
+2004,Arizona,205420.8,Millions of current dollars,AZ
+2005,Arizona,228231.2,Millions of current dollars,AZ
+2006,Arizona,248230.7,Millions of current dollars,AZ
+2007,Arizona,262322.0,Millions of current dollars,AZ
+2008,Arizona,259366.7,Millions of current dollars,AZ
+2009,Arizona,243929.4,Millions of current dollars,AZ
+2010,Arizona,248210.0,Millions of current dollars,AZ
+2011,Arizona,257947.8,Millions of current dollars,AZ
+2012,Arizona,268288.8,Millions of current dollars,AZ
+2013,Arizona,275199.1,Millions of current dollars,AZ
+2014,Arizona,284430.0,Millions of current dollars,AZ
+2015,Arizona,297141.2,Millions of current dollars,AZ
+2016,Arizona,311091.0,Millions of current dollars,AZ
+2000,Arkansas,68770.0,Millions of current dollars,AR
+2001,Arkansas,70601.4,Millions of current dollars,AR
+2002,Arkansas,73950.4,Millions of current dollars,AR
+2003,Arkansas,78218.8,Millions of current dollars,AR
+2004,Arkansas,84624.5,Millions of current dollars,AR
+2005,Arkansas,89610.0,Millions of current dollars,AR
+2006,Arkansas,94384.5,Millions of current dollars,AR
+2007,Arkansas,96948.2,Millions of current dollars,AR
+2008,Arkansas,98955.3,Millions of current dollars,AR
+2009,Arkansas,97058.9,Millions of current dollars,AR
+2010,Arkansas,101690.0,Millions of current dollars,AR
+2011,Arkansas,106085.4,Millions of current dollars,AR
+2012,Arkansas,108745.2,Millions of current dollars,AR
+2013,Arkansas,114251.5,Millions of current dollars,AR
+2014,Arkansas,117336.7,Millions of current dollars,AR
+2015,Arkansas,118761.2,Millions of current dollars,AR
+2016,Arkansas,120374.8,Millions of current dollars,AR
+2000,California,1366561.0,Millions of current dollars,CA
+2001,California,1384111.2,Millions of current dollars,CA
+2002,California,1436430.9,Millions of current dollars,CA
+2003,California,1527294.0,Millions of current dollars,CA
+2004,California,1632216.9,Millions of current dollars,CA
+2005,California,1753866.2,Millions of current dollars,CA
+2006,California,1874737.3,Millions of current dollars,CA
+2007,California,1955856.0,Millions of current dollars,CA
+2008,California,1990678.2,Millions of current dollars,CA
+2009,California,1920061.8,Millions of current dollars,CA
+2010,California,1974614.5,Millions of current dollars,CA
+2011,California,2050056.8,Millions of current dollars,CA
+2012,California,2144497.3,Millions of current dollars,CA
+2013,California,2262771.2,Millions of current dollars,CA
+2014,California,2395162.3,Millions of current dollars,CA
+2015,California,2553772.2,Millions of current dollars,CA
+2016,California,2657797.6,Millions of current dollars,CA
+2000,Colorado,180605.5,Millions of current dollars,CO
+2001,Colorado,187571.9,Millions of current dollars,CO
+2002,Colorado,190962.8,Millions of current dollars,CO
+2003,Colorado,196483.7,Millions of current dollars,CO
+2004,Colorado,203980.2,Millions of current dollars,CO
+2005,Colorado,219907.9,Millions of current dollars,CO
+2006,Colorado,231205.9,Millions of current dollars,CO
+2007,Colorado,246043.5,Millions of current dollars,CO
+2008,Colorado,255566.8,Millions of current dollars,CO
+2009,Colorado,248593.6,Millions of current dollars,CO
+2010,Colorado,255140.5,Millions of current dollars,CO
+2011,Colorado,264431.6,Millions of current dollars,CO
+2012,Colorado,273519.5,Millions of current dollars,CO
+2013,Colorado,288305.2,Millions of current dollars,CO
+2014,Colorado,306571.1,Millions of current dollars,CO
+2015,Colorado,318554.9,Millions of current dollars,CO
+2016,Colorado,329368.3,Millions of current dollars,CO
+2000,Connecticut,165898.7,Millions of current dollars,CT
+2001,Connecticut,173127.2,Millions of current dollars,CT
+2002,Connecticut,176208.2,Millions of current dollars,CT
+2003,Connecticut,181339.7,Millions of current dollars,CT
+2004,Connecticut,198662.4,Millions of current dollars,CT
+2005,Connecticut,208766.2,Millions of current dollars,CT
+2006,Connecticut,222889.1,Millions of current dollars,CT
+2007,Connecticut,237542.7,Millions of current dollars,CT
+2008,Connecticut,240910.9,Millions of current dollars,CT
+2009,Connecticut,236393.2,Millions of current dollars,CT
+2010,Connecticut,237653.4,Millions of current dollars,CT
+2011,Connecticut,236523.7,Millions of current dollars,CT
+2012,Connecticut,243801.0,Millions of current dollars,CT
+2013,Connecticut,246632.0,Millions of current dollars,CT
+2014,Connecticut,248865.2,Millions of current dollars,CT
+2015,Connecticut,260072.6,Millions of current dollars,CT
+2016,Connecticut,263696.4,Millions of current dollars,CT
+2000,Delaware,43389.4,Millions of current dollars,DE
+2001,Delaware,46448.3,Millions of current dollars,DE
+2002,Delaware,45757.9,Millions of current dollars,DE
+2003,Delaware,47761.6,Millions of current dollars,DE
+2004,Delaware,51449.4,Millions of current dollars,DE
+2005,Delaware,52154.1,Millions of current dollars,DE
+2006,Delaware,55067.4,Millions of current dollars,DE
+2007,Delaware,56278.5,Millions of current dollars,DE
+2008,Delaware,54787.5,Millions of current dollars,DE
+2009,Delaware,56871.2,Millions of current dollars,DE
+2010,Delaware,57447.4,Millions of current dollars,DE
+2011,Delaware,60357.4,Millions of current dollars,DE
+2012,Delaware,61975.8,Millions of current dollars,DE
+2013,Delaware,60666.1,Millions of current dollars,DE
+2014,Delaware,66891.0,Millions of current dollars,DE
+2015,Delaware,70969.4,Millions of current dollars,DE
+2016,Delaware,69549.7,Millions of current dollars,DE
+2000,District of Columbia,61095.5,Millions of current dollars,DC
+2001,District of Columbia,65565.9,Millions of current dollars,DC
+2002,District of Columbia,70054.7,Millions of current dollars,DC
+2003,District of Columbia,74090.3,Millions of current dollars,DC
+2004,District of Columbia,80471.3,Millions of current dollars,DC
+2005,District of Columbia,85304.9,Millions of current dollars,DC
+2006,District of Columbia,88517.2,Millions of current dollars,DC
+2007,District of Columbia,93970.0,Millions of current dollars,DC
+2008,District of Columbia,99478.5,Millions of current dollars,DC
+2009,District of Columbia,100894.6,Millions of current dollars,DC
+2010,District of Columbia,106120.3,Millions of current dollars,DC
+2011,District of Columbia,110076.2,Millions of current dollars,DC
+2012,District of Columbia,112736.5,Millions of current dollars,DC
+2013,District of Columbia,114891.0,Millions of current dollars,DC
+2014,District of Columbia,119841.0,Millions of current dollars,DC
+2015,District of Columbia,125211.9,Millions of current dollars,DC
+2016,District of Columbia,129826.1,Millions of current dollars,DC
+2000,Florida,489488.1,Millions of current dollars,FL
+2001,Florida,516689.6,Millions of current dollars,FL
+2002,Florida,548540.3,Millions of current dollars,FL
+2003,Florida,583725.7,Millions of current dollars,FL
+2004,Florida,635525.5,Millions of current dollars,FL
+2005,Florida,696741.1,Millions of current dollars,FL
+2006,Florida,744464.2,Millions of current dollars,FL
+2007,Florida,768661.0,Millions of current dollars,FL
+2008,Florida,750501.6,Millions of current dollars,FL
+2009,Florida,724582.2,Millions of current dollars,FL
+2010,Florida,737791.1,Millions of current dollars,FL
+2011,Florida,746787.5,Millions of current dollars,FL
+2012,Florida,769309.1,Millions of current dollars,FL
+2013,Florida,800704.1,Millions of current dollars,FL
+2014,Florida,839484.1,Millions of current dollars,FL
+2015,Florida,895146.2,Millions of current dollars,FL
+2016,Florida,938774.2,Millions of current dollars,FL
+2000,Georgia,307611.6,Millions of current dollars,GA
+2001,Georgia,318753.0,Millions of current dollars,GA
+2002,Georgia,326929.6,Millions of current dollars,GA
+2003,Georgia,340410.6,Millions of current dollars,GA
+2004,Georgia,364255.2,Millions of current dollars,GA
+2005,Georgia,386785.0,Millions of current dollars,GA
+2006,Georgia,402144.6,Millions of current dollars,GA
+2007,Georgia,415131.9,Millions of current dollars,GA
+2008,Georgia,412911.9,Millions of current dollars,GA
+2009,Georgia,407024.5,Millions of current dollars,GA
+2010,Georgia,416883.8,Millions of current dollars,GA
+2011,Georgia,429574.0,Millions of current dollars,GA
+2012,Georgia,444132.2,Millions of current dollars,GA
+2013,Georgia,460585.1,Millions of current dollars,GA
+2014,Georgia,485816.7,Millions of current dollars,GA
+2015,Georgia,513565.6,Millions of current dollars,GA
+2016,Georgia,539525.1,Millions of current dollars,GA
+2000,Hawaii,41500.2,Millions of current dollars,HI
+2001,Hawaii,42894.3,Millions of current dollars,HI
+2002,Hawaii,45447.1,Millions of current dollars,HI
+2003,Hawaii,48929.1,Millions of current dollars,HI
+2004,Hawaii,53761.8,Millions of current dollars,HI
+2005,Hawaii,58667.9,Millions of current dollars,HI
+2006,Hawaii,62365.0,Millions of current dollars,HI
+2007,Hawaii,65233.5,Millions of current dollars,HI
+2008,Hawaii,66864.7,Millions of current dollars,HI
+2009,Hawaii,65692.0,Millions of current dollars,HI
+2010,Hawaii,68196.9,Millions of current dollars,HI
+2011,Hawaii,70482.6,Millions of current dollars,HI
+2012,Hawaii,73582.7,Millions of current dollars,HI
+2013,Hawaii,75788.3,Millions of current dollars,HI
+2014,Hawaii,77854.3,Millions of current dollars,HI
+2015,Hawaii,82710.0,Millions of current dollars,HI
+2016,Hawaii,85843.8,Millions of current dollars,HI
+2000,Idaho,37992.8,Millions of current dollars,ID
+2001,Idaho,37384.1,Millions of current dollars,ID
+2002,Idaho,38715.3,Millions of current dollars,ID
+2003,Idaho,40341.8,Millions of current dollars,ID
+2004,Idaho,43739.0,Millions of current dollars,ID
+2005,Idaho,47962.9,Millions of current dollars,ID
+2006,Idaho,50976.3,Millions of current dollars,ID
+2007,Idaho,53852.1,Millions of current dollars,ID
+2008,Idaho,55546.0,Millions of current dollars,ID
+2009,Idaho,53775.0,Millions of current dollars,ID
+2010,Idaho,55170.7,Millions of current dollars,ID
+2011,Idaho,56488.1,Millions of current dollars,ID
+2012,Idaho,57764.4,Millions of current dollars,ID
+2013,Idaho,61017.7,Millions of current dollars,ID
+2014,Idaho,63521.8,Millions of current dollars,ID
+2015,Idaho,66004.3,Millions of current dollars,ID
+2016,Idaho,69029.4,Millions of current dollars,ID
+2000,Illinois,487212.7,Millions of current dollars,IL
+2001,Illinois,502260.3,Millions of current dollars,IL
+2002,Illinois,514063.8,Millions of current dollars,IL
+2003,Illinois,529455.4,Millions of current dollars,IL
+2004,Illinois,558748.4,Millions of current dollars,IL
+2005,Illinois,586693.9,Millions of current dollars,IL
+2006,Illinois,621859.9,Millions of current dollars,IL
+2007,Illinois,647862.1,Millions of current dollars,IL
+2008,Illinois,646366.6,Millions of current dollars,IL
+2009,Illinois,644690.1,Millions of current dollars,IL
+2010,Illinois,662637.8,Millions of current dollars,IL
+2011,Illinois,688288.9,Millions of current dollars,IL
+2012,Illinois,720702.3,Millions of current dollars,IL
+2013,Illinois,739627.9,Millions of current dollars,IL
+2014,Illinois,765347.7,Millions of current dollars,IL
+2015,Illinois,792999.4,Millions of current dollars,IL
+2016,Illinois,806315.5,Millions of current dollars,IL
+2000,Indiana,203052.9,Millions of current dollars,IN
+2001,Indiana,204581.1,Millions of current dollars,IN
+2002,Indiana,212430.3,Millions of current dollars,IN
+2003,Indiana,223495.3,Millions of current dollars,IN
+2004,Indiana,236935.8,Millions of current dollars,IN
+2005,Indiana,243738.3,Millions of current dollars,IN
+2006,Indiana,255054.6,Millions of current dollars,IN
+2007,Indiana,269053.6,Millions of current dollars,IN
+2008,Indiana,272845.6,Millions of current dollars,IN
+2009,Indiana,261238.3,Millions of current dollars,IN
+2010,Indiana,280120.7,Millions of current dollars,IN
+2011,Indiana,288749.1,Millions of current dollars,IN
+2012,Indiana,297552.7,Millions of current dollars,IN
+2013,Indiana,308681.7,Millions of current dollars,IN
+2014,Indiana,324934.5,Millions of current dollars,IN
+2015,Indiana,330032.2,Millions of current dollars,IN
+2016,Indiana,338126.1,Millions of current dollars,IN
+2000,Iowa,93028.6,Millions of current dollars,IA
+2001,Iowa,94770.8,Millions of current dollars,IA
+2002,Iowa,98976.1,Millions of current dollars,IA
+2003,Iowa,105073.5,Millions of current dollars,IA
+2004,Iowa,116652.5,Millions of current dollars,IA
+2005,Iowa,122224.0,Millions of current dollars,IA
+2006,Iowa,126884.2,Millions of current dollars,IA
+2007,Iowa,136977.0,Millions of current dollars,IA
+2008,Iowa,136553.6,Millions of current dollars,IA
+2009,Iowa,136251.2,Millions of current dollars,IA
+2010,Iowa,141482.0,Millions of current dollars,IA
+2011,Iowa,147227.0,Millions of current dollars,IA
+2012,Iowa,157250.8,Millions of current dollars,IA
+2013,Iowa,160299.8,Millions of current dollars,IA
+2014,Iowa,171561.0,Millions of current dollars,IA
+2015,Iowa,178472.6,Millions of current dollars,IA
+2016,Iowa,179546.6,Millions of current dollars,IA
+2000,Kansas,85853.2,Millions of current dollars,KS
+2001,Kansas,88380.4,Millions of current dollars,KS
+2002,Kansas,90949.3,Millions of current dollars,KS
+2003,Kansas,94603.5,Millions of current dollars,KS
+2004,Kansas,97676.4,Millions of current dollars,KS
+2005,Kansas,103936.6,Millions of current dollars,KS
+2006,Kansas,112650.3,Millions of current dollars,KS
+2007,Kansas,122453.3,Millions of current dollars,KS
+2008,Kansas,127682.4,Millions of current dollars,KS
+2009,Kansas,124340.7,Millions of current dollars,KS
+2010,Kansas,127744.8,Millions of current dollars,KS
+2011,Kansas,135315.3,Millions of current dollars,KS
+2012,Kansas,140477.8,Millions of current dollars,KS
+2013,Kansas,143220.7,Millions of current dollars,KS
+2014,Kansas,148225.6,Millions of current dollars,KS
+2015,Kansas,152374.1,Millions of current dollars,KS
+2016,Kansas,156857.4,Millions of current dollars,KS
+2000,Kentucky,114293.2,Millions of current dollars,KY
+2001,Kentucky,117430.8,Millions of current dollars,KY
+2002,Kentucky,122193.1,Millions of current dollars,KY
+2003,Kentucky,126970.6,Millions of current dollars,KY
+2004,Kentucky,134194.1,Millions of current dollars,KY
+2005,Kentucky,142649.0,Millions of current dollars,KY
+2006,Kentucky,151006.8,Millions of current dollars,KY
+2007,Kentucky,154531.7,Millions of current dollars,KY
+2008,Kentucky,158099.0,Millions of current dollars,KY
+2009,Kentucky,155779.7,Millions of current dollars,KY
+2010,Kentucky,164605.5,Millions of current dollars,KY
+2011,Kentucky,169940.7,Millions of current dollars,KY
+2012,Kentucky,176302.3,Millions of current dollars,KY
+2013,Kentucky,182359.2,Millions of current dollars,KY
+2014,Kentucky,186523.0,Millions of current dollars,KY
+2015,Kentucky,191923.3,Millions of current dollars,KY
+2016,Kentucky,195342.2,Millions of current dollars,KY
+2000,Louisiana,132809.9,Millions of current dollars,LA
+2001,Louisiana,137845.1,Millions of current dollars,LA
+2002,Louisiana,139537.9,Millions of current dollars,LA
+2003,Louisiana,154361.6,Millions of current dollars,LA
+2004,Louisiana,169873.2,Millions of current dollars,LA
+2005,Louisiana,197566.5,Millions of current dollars,LA
+2006,Louisiana,205799.5,Millions of current dollars,LA
+2007,Louisiana,206641.1,Millions of current dollars,LA
+2008,Louisiana,215068.9,Millions of current dollars,LA
+2009,Louisiana,206884.9,Millions of current dollars,LA
+2010,Louisiana,225677.0,Millions of current dollars,LA
+2011,Louisiana,228987.5,Millions of current dollars,LA
+2012,Louisiana,233623.1,Millions of current dollars,LA
+2013,Louisiana,228967.4,Millions of current dollars,LA
+2014,Louisiana,238679.5,Millions of current dollars,LA
+2015,Louisiana,234299.1,Millions of current dollars,LA
+2016,Louisiana,227226.7,Millions of current dollars,LA
+2000,Maine,36841.0,Millions of current dollars,ME
+2001,Maine,38500.8,Millions of current dollars,ME
+2002,Maine,40183.7,Millions of current dollars,ME
+2003,Maine,41838.5,Millions of current dollars,ME
+2004,Maine,44526.3,Millions of current dollars,ME
+2005,Maine,45874.8,Millions of current dollars,ME
+2006,Maine,47921.1,Millions of current dollars,ME
+2007,Maine,49148.6,Millions of current dollars,ME
+2008,Maine,49973.8,Millions of current dollars,ME
+2009,Maine,50556.5,Millions of current dollars,ME
+2010,Maine,51710.7,Millions of current dollars,ME
+2011,Maine,51866.7,Millions of current dollars,ME
+2012,Maine,52874.0,Millions of current dollars,ME
+2013,Maine,53719.0,Millions of current dollars,ME
+2014,Maine,55795.4,Millions of current dollars,ME
+2015,Maine,57525.7,Millions of current dollars,ME
+2016,Maine,59753.9,Millions of current dollars,ME
+2000,Maryland,192106.3,Millions of current dollars,MD
+2001,Maryland,205449.8,Millions of current dollars,MD
+2002,Maryland,218299.3,Millions of current dollars,MD
+2003,Maryland,228690.0,Millions of current dollars,MD
+2004,Maryland,246762.0,Millions of current dollars,MD
+2005,Maryland,265929.5,Millions of current dollars,MD
+2006,Maryland,279468.3,Millions of current dollars,MD
+2007,Maryland,287872.8,Millions of current dollars,MD
+2008,Maryland,296435.4,Millions of current dollars,MD
+2009,Maryland,302507.3,Millions of current dollars,MD
+2010,Maryland,316451.5,Millions of current dollars,MD
+2011,Maryland,328058.4,Millions of current dollars,MD
+2012,Maryland,334821.6,Millions of current dollars,MD
+2013,Maryland,341255.3,Millions of current dollars,MD
+2014,Maryland,352046.7,Millions of current dollars,MD
+2015,Maryland,367096.5,Millions of current dollars,MD
+2016,Maryland,384889.1,Millions of current dollars,MD
+2000,Massachusetts,289926.5,Millions of current dollars,MA
+2001,Massachusetts,296834.1,Millions of current dollars,MA
+2002,Massachusetts,303967.1,Millions of current dollars,MA
+2003,Massachusetts,315299.8,Millions of current dollars,MA
+2004,Massachusetts,330669.9,Millions of current dollars,MA
+2005,Massachusetts,345586.0,Millions of current dollars,MA
+2006,Massachusetts,361266.0,Millions of current dollars,MA
+2007,Massachusetts,379877.2,Millions of current dollars,MA
+2008,Massachusetts,388583.2,Millions of current dollars,MA
+2009,Massachusetts,391265.1,Millions of current dollars,MA
+2010,Massachusetts,409762.5,Millions of current dollars,MA
+2011,Massachusetts,425593.2,Millions of current dollars,MA
+2012,Massachusetts,444329.8,Millions of current dollars,MA
+2013,Massachusetts,454345.7,Millions of current dollars,MA
+2014,Massachusetts,473279.0,Millions of current dollars,MA
+2015,Massachusetts,502858.0,Millions of current dollars,MA
+2016,Massachusetts,519407.6,Millions of current dollars,MA
+2000,Michigan,351572.7,Millions of current dollars,MI
+2001,Michigan,348529.0,Millions of current dollars,MI
+2002,Michigan,362271.1,Millions of current dollars,MI
+2003,Michigan,373839.3,Millions of current dollars,MI
+2004,Michigan,381228.9,Millions of current dollars,MI
+2005,Michigan,394229.0,Millions of current dollars,MI
+2006,Michigan,395451.0,Millions of current dollars,MI
+2007,Michigan,403735.8,Millions of current dollars,MI
+2008,Michigan,386053.9,Millions of current dollars,MI
+2009,Michigan,365591.7,Millions of current dollars,MI
+2010,Michigan,386625.9,Millions of current dollars,MI
+2011,Michigan,401105.4,Millions of current dollars,MI
+2012,Michigan,418857.4,Millions of current dollars,MI
+2013,Michigan,432717.6,Millions of current dollars,MI
+2014,Michigan,449127.7,Millions of current dollars,MI
+2015,Michigan,474301.4,Millions of current dollars,MI
+2016,Michigan,491774.2,Millions of current dollars,MI
+2000,Minnesota,189964.8,Millions of current dollars,MN
+2001,Minnesota,194646.5,Millions of current dollars,MN
+2002,Minnesota,202766.0,Millions of current dollars,MN
+2003,Minnesota,215155.9,Millions of current dollars,MN
+2004,Minnesota,230282.0,Millions of current dollars,MN
+2005,Minnesota,242862.7,Millions of current dollars,MN
+2006,Minnesota,249735.0,Millions of current dollars,MN
+2007,Minnesota,258827.2,Millions of current dollars,MN
+2008,Minnesota,264688.0,Millions of current dollars,MN
+2009,Minnesota,259958.7,Millions of current dollars,MN
+2010,Minnesota,271821.2,Millions of current dollars,MN
+2011,Minnesota,283807.3,Millions of current dollars,MN
+2012,Minnesota,294296.6,Millions of current dollars,MN
+2013,Minnesota,306153.0,Millions of current dollars,MN
+2014,Minnesota,319778.7,Millions of current dollars,MN
+2015,Minnesota,329493.2,Millions of current dollars,MN
+2016,Minnesota,339100.1,Millions of current dollars,MN
+2000,Mississippi,65645.9,Millions of current dollars,MS
+2001,Mississippi,67028.6,Millions of current dollars,MS
+2002,Mississippi,68865.8,Millions of current dollars,MS
+2003,Mississippi,73332.2,Millions of current dollars,MS
+2004,Mississippi,77214.4,Millions of current dollars,MS
+2005,Mississippi,80995.7,Millions of current dollars,MS
+2006,Mississippi,85869.0,Millions of current dollars,MS
+2007,Mississippi,91057.6,Millions of current dollars,MS
+2008,Mississippi,96843.6,Millions of current dollars,MS
+2009,Mississippi,93205.6,Millions of current dollars,MS
+2010,Mississippi,95208.4,Millions of current dollars,MS
+2011,Mississippi,96371.6,Millions of current dollars,MS
+2012,Mississippi,99614.6,Millions of current dollars,MS
+2013,Mississippi,101638.1,Millions of current dollars,MS
+2014,Mississippi,104146.0,Millions of current dollars,MS
+2015,Mississippi,105883.4,Millions of current dollars,MS
+2016,Mississippi,107096.6,Millions of current dollars,MS
+2000,Missouri,187296.8,Millions of current dollars,MO
+2001,Missouri,191199.0,Millions of current dollars,MO
+2002,Missouri,196597.6,Millions of current dollars,MO
+2003,Missouri,204009.5,Millions of current dollars,MO
+2004,Missouri,214218.1,Millions of current dollars,MO
+2005,Missouri,223497.1,Millions of current dollars,MO
+2006,Missouri,231771.5,Millions of current dollars,MO
+2007,Missouri,240158.8,Millions of current dollars,MO
+2008,Missouri,250581.1,Millions of current dollars,MO
+2009,Missouri,251780.0,Millions of current dollars,MO
+2010,Missouri,258544.1,Millions of current dollars,MO
+2011,Missouri,260093.5,Millions of current dollars,MO
+2012,Missouri,268761.5,Millions of current dollars,MO
+2013,Missouri,277851.1,Millions of current dollars,MO
+2014,Missouri,284712.5,Millions of current dollars,MO
+2015,Missouri,294794.6,Millions of current dollars,MO
+2016,Missouri,297582.6,Millions of current dollars,MO
+2000,Montana,21885.2,Millions of current dollars,MT
+2001,Montana,22851.7,Millions of current dollars,MT
+2002,Montana,23880.5,Millions of current dollars,MT
+2003,Montana,25637.6,Millions of current dollars,MT
+2004,Montana,27939.2,Millions of current dollars,MT
+2005,Montana,30529.7,Millions of current dollars,MT
+2006,Montana,32933.3,Millions of current dollars,MT
+2007,Montana,36074.1,Millions of current dollars,MT
+2008,Montana,36862.5,Millions of current dollars,MT
+2009,Montana,35983.9,Millions of current dollars,MT
+2010,Montana,38054.6,Millions of current dollars,MT
+2011,Montana,40579.3,Millions of current dollars,MT
+2012,Montana,42005.8,Millions of current dollars,MT
+2013,Montana,43141.0,Millions of current dollars,MT
+2014,Montana,44495.7,Millions of current dollars,MT
+2015,Montana,46152.9,Millions of current dollars,MT
+2016,Montana,45457.9,Millions of current dollars,MT
+2000,Nebraska,56503.7,Millions of current dollars,NE
+2001,Nebraska,59467.0,Millions of current dollars,NE
+2002,Nebraska,61604.4,Millions of current dollars,NE
+2003,Nebraska,66415.6,Millions of current dollars,NE
+2004,Nebraska,70288.8,Millions of current dollars,NE
+2005,Nebraska,73959.0,Millions of current dollars,NE
+2006,Nebraska,78150.0,Millions of current dollars,NE
+2007,Nebraska,83122.8,Millions of current dollars,NE
+2008,Nebraska,85200.6,Millions of current dollars,NE
+2009,Nebraska,86830.3,Millions of current dollars,NE
+2010,Nebraska,91812.8,Millions of current dollars,NE
+2011,Nebraska,99613.4,Millions of current dollars,NE
+2012,Nebraska,102269.0,Millions of current dollars,NE
+2013,Nebraska,107604.3,Millions of current dollars,NE
+2014,Nebraska,111161.7,Millions of current dollars,NE
+2015,Nebraska,115328.0,Millions of current dollars,NE
+2016,Nebraska,116193.8,Millions of current dollars,NE
+2000,Nevada,76627.1,Millions of current dollars,NV
+2001,Nevada,80426.6,Millions of current dollars,NV
+2002,Nevada,84733.5,Millions of current dollars,NV
+2003,Nevada,90778.8,Millions of current dollars,NV
+2004,Nevada,104420.6,Millions of current dollars,NV
+2005,Nevada,117856.1,Millions of current dollars,NV
+2006,Nevada,127575.7,Millions of current dollars,NV
+2007,Nevada,131599.8,Millions of current dollars,NV
+2008,Nevada,129372.4,Millions of current dollars,NV
+2009,Nevada,121109.5,Millions of current dollars,NV
+2010,Nevada,123598.1,Millions of current dollars,NV
+2011,Nevada,126657.1,Millions of current dollars,NV
+2012,Nevada,128043.0,Millions of current dollars,NV
+2013,Nevada,130621.4,Millions of current dollars,NV
+2014,Nevada,135153.2,Millions of current dollars,NV
+2015,Nevada,144232.4,Millions of current dollars,NV
+2016,Nevada,151215.1,Millions of current dollars,NV
+2000,New Hampshire,45225.5,Millions of current dollars,NH
+2001,New Hampshire,46629.7,Millions of current dollars,NH
+2002,New Hampshire,48678.5,Millions of current dollars,NH
+2003,New Hampshire,51378.4,Millions of current dollars,NH
+2004,New Hampshire,54126.7,Millions of current dollars,NH
+2005,New Hampshire,56352.1,Millions of current dollars,NH
+2006,New Hampshire,59411.6,Millions of current dollars,NH
+2007,New Hampshire,60732.7,Millions of current dollars,NH
+2008,New Hampshire,60918.7,Millions of current dollars,NH
+2009,New Hampshire,61937.4,Millions of current dollars,NH
+2010,New Hampshire,64151.6,Millions of current dollars,NH
+2011,New Hampshire,65430.5,Millions of current dollars,NH
+2012,New Hampshire,67689.2,Millions of current dollars,NH
+2013,New Hampshire,70181.9,Millions of current dollars,NH
+2014,New Hampshire,72340.1,Millions of current dollars,NH
+2015,New Hampshire,76033.3,Millions of current dollars,NH
+2016,New Hampshire,78477.9,Millions of current dollars,NH
+2000,New Jersey,362006.9,Millions of current dollars,NJ
+2001,New Jersey,373755.6,Millions of current dollars,NJ
+2002,New Jersey,388337.7,Millions of current dollars,NJ
+2003,New Jersey,405198.5,Millions of current dollars,NJ
+2004,New Jersey,422889.1,Millions of current dollars,NJ
+2005,New Jersey,440773.8,Millions of current dollars,NJ
+2006,New Jersey,464458.9,Millions of current dollars,NJ
+2007,New Jersey,480539.0,Millions of current dollars,NJ
+2008,New Jersey,495121.8,Millions of current dollars,NJ
+2009,New Jersey,486512.8,Millions of current dollars,NJ
+2010,New Jersey,495149.0,Millions of current dollars,NJ
+2011,New Jersey,499114.9,Millions of current dollars,NJ
+2012,New Jersey,519745.8,Millions of current dollars,NJ
+2013,New Jersey,533686.7,Millions of current dollars,NJ
+2014,New Jersey,546686.5,Millions of current dollars,NJ
+2015,New Jersey,569679.5,Millions of current dollars,NJ
+2016,New Jersey,582427.5,Millions of current dollars,NJ
+2000,New Mexico,55232.9,Millions of current dollars,NM
+2001,New Mexico,55986.2,Millions of current dollars,NM
+2002,New Mexico,58055.5,Millions of current dollars,NM
+2003,New Mexico,62895.9,Millions of current dollars,NM
+2004,New Mexico,69740.7,Millions of current dollars,NM
+2005,New Mexico,73684.2,Millions of current dollars,NM
+2006,New Mexico,77426.1,Millions of current dollars,NM
+2007,New Mexico,80572.8,Millions of current dollars,NM
+2008,New Mexico,83724.2,Millions of current dollars,NM
+2009,New Mexico,82017.4,Millions of current dollars,NM
+2010,New Mexico,83989.2,Millions of current dollars,NM
+2011,New Mexico,86625.0,Millions of current dollars,NM
+2012,New Mexico,87601.6,Millions of current dollars,NM
+2013,New Mexico,88411.2,Millions of current dollars,NM
+2014,New Mexico,92480.7,Millions of current dollars,NM
+2015,New Mexico,90969.0,Millions of current dollars,NM
+2016,New Mexico,91043.6,Millions of current dollars,NM
+2000,New York,838660.3,Millions of current dollars,NY
+2001,New York,877149.3,Millions of current dollars,NY
+2002,New York,886792.7,Millions of current dollars,NY
+2003,New York,905280.6,Millions of current dollars,NY
+2004,New York,955192.0,Millions of current dollars,NY
+2005,New York,1015046.3,Millions of current dollars,NY
+2006,New York,1071393.1,Millions of current dollars,NY
+2007,New York,1108896.0,Millions of current dollars,NY
+2008,New York,1099234.4,Millions of current dollars,NY
+2009,New York,1152812.1,Millions of current dollars,NY
+2010,New York,1213946.9,Millions of current dollars,NY
+2011,New York,1236061.4,Millions of current dollars,NY
+2012,New York,1322447.9,Millions of current dollars,NY
+2013,New York,1355581.4,Millions of current dollars,NY
+2014,New York,1427495.2,Millions of current dollars,NY
+2015,New York,1487754.1,Millions of current dollars,NY
+2016,New York,1539555.2,Millions of current dollars,NY
+2000,North Carolina,275694.2,Millions of current dollars,NC
+2001,North Carolina,288683.5,Millions of current dollars,NC
+2002,North Carolina,298110.0,Millions of current dollars,NC
+2003,North Carolina,309318.2,Millions of current dollars,NC
+2004,North Carolina,328037.6,Millions of current dollars,NC
+2005,North Carolina,352394.5,Millions of current dollars,NC
+2006,North Carolina,383522.3,Millions of current dollars,NC
+2007,North Carolina,396347.6,Millions of current dollars,NC
+2008,North Carolina,413363.3,Millions of current dollars,NC
+2009,North Carolina,406477.4,Millions of current dollars,NC
+2010,North Carolina,415206.4,Millions of current dollars,NC
+2011,North Carolina,427205.6,Millions of current dollars,NC
+2012,North Carolina,439571.0,Millions of current dollars,NC
+2013,North Carolina,455521.6,Millions of current dollars,NC
+2014,North Carolina,475994.6,Millions of current dollars,NC
+2015,North Carolina,503628.8,Millions of current dollars,NC
+2016,North Carolina,519122.1,Millions of current dollars,NC
+2000,North Dakota,17976.1,Millions of current dollars,ND
+2001,North Dakota,18919.6,Millions of current dollars,ND
+2002,North Dakota,20209.0,Millions of current dollars,ND
+2003,North Dakota,22077.4,Millions of current dollars,ND
+2004,North Dakota,23167.8,Millions of current dollars,ND
+2005,North Dakota,24417.3,Millions of current dollars,ND
+2006,North Dakota,26120.0,Millions of current dollars,ND
+2007,North Dakota,28679.7,Millions of current dollars,ND
+2008,North Dakota,31722.1,Millions of current dollars,ND
+2009,North Dakota,32002.5,Millions of current dollars,ND
+2010,North Dakota,35426.3,Millions of current dollars,ND
+2011,North Dakota,41179.2,Millions of current dollars,ND
+2012,North Dakota,51345.1,Millions of current dollars,ND
+2013,North Dakota,53881.7,Millions of current dollars,ND
+2014,North Dakota,58650.0,Millions of current dollars,ND
+2015,North Dakota,55012.2,Millions of current dollars,ND
+2016,North Dakota,50833.1,Millions of current dollars,ND
+2000,Ohio,391137.8,Millions of current dollars,OH
+2001,Ohio,395622.5,Millions of current dollars,OH
+2002,Ohio,411967.0,Millions of current dollars,OH
+2003,Ohio,424915.5,Millions of current dollars,OH
+2004,Ohio,445541.1,Millions of current dollars,OH
+2005,Ohio,465809.3,Millions of current dollars,OH
+2006,Ohio,477180.4,Millions of current dollars,OH
+2007,Ohio,490965.0,Millions of current dollars,OH
+2008,Ohio,495742.6,Millions of current dollars,OH
+2009,Ohio,480322.0,Millions of current dollars,OH
+2010,Ohio,497208.2,Millions of current dollars,OH
+2011,Ohio,525388.4,Millions of current dollars,OH
+2012,Ohio,540819.3,Millions of current dollars,OH
+2013,Ohio,561045.5,Millions of current dollars,OH
+2014,Ohio,593355.1,Millions of current dollars,OH
+2015,Ohio,610772.3,Millions of current dollars,OH
+2016,Ohio,622835.2,Millions of current dollars,OH
+2000,Oklahoma,90792.7,Millions of current dollars,OK
+2001,Oklahoma,96767.0,Millions of current dollars,OK
+2002,Oklahoma,99163.0,Millions of current dollars,OK
+2003,Oklahoma,105243.3,Millions of current dollars,OK
+2004,Oklahoma,113148.7,Millions of current dollars,OK
+2005,Oklahoma,124563.3,Millions of current dollars,OK
+2006,Oklahoma,137083.6,Millions of current dollars,OK
+2007,Oklahoma,144893.3,Millions of current dollars,OK
+2008,Oklahoma,159660.0,Millions of current dollars,OK
+2009,Oklahoma,145736.4,Millions of current dollars,OK
+2010,Oklahoma,152911.4,Millions of current dollars,OK
+2011,Oklahoma,165035.6,Millions of current dollars,OK
+2012,Oklahoma,173483.7,Millions of current dollars,OK
+2013,Oklahoma,182618.4,Millions of current dollars,OK
+2014,Oklahoma,195023.2,Millions of current dollars,OK
+2015,Oklahoma,185936.7,Millions of current dollars,OK
+2016,Oklahoma,178913.2,Millions of current dollars,OK
+2000,Oregon,117258.3,Millions of current dollars,OR
+2001,Oregon,117274.7,Millions of current dollars,OR
+2002,Oregon,121229.5,Millions of current dollars,OR
+2003,Oregon,127211.6,Millions of current dollars,OR
+2004,Oregon,136238.5,Millions of current dollars,OR
+2005,Oregon,143662.6,Millions of current dollars,OR
+2006,Oregon,155153.3,Millions of current dollars,OR
+2007,Oregon,161512.0,Millions of current dollars,OR
+2008,Oregon,165189.1,Millions of current dollars,OR
+2009,Oregon,160640.7,Millions of current dollars,OR
+2010,Oregon,163827.6,Millions of current dollars,OR
+2011,Oregon,170621.3,Millions of current dollars,OR
+2012,Oregon,174493.1,Millions of current dollars,OR
+2013,Oregon,179382.7,Millions of current dollars,OR
+2014,Oregon,188880.2,Millions of current dollars,OR
+2015,Oregon,203158.9,Millions of current dollars,OR
+2016,Oregon,215050.4,Millions of current dollars,OR
+2000,Pennsylvania,407652.8,Millions of current dollars,PA
+2001,Pennsylvania,424965.2,Millions of current dollars,PA
+2002,Pennsylvania,436985.5,Millions of current dollars,PA
+2003,Pennsylvania,455106.8,Millions of current dollars,PA
+2004,Pennsylvania,481738.9,Millions of current dollars,PA
+2005,Pennsylvania,505584.6,Millions of current dollars,PA
+2006,Pennsylvania,526396.3,Millions of current dollars,PA
+2007,Pennsylvania,560753.4,Millions of current dollars,PA
+2008,Pennsylvania,582240.2,Millions of current dollars,PA
+2009,Pennsylvania,577379.8,Millions of current dollars,PA
+2010,Pennsylvania,599312.8,Millions of current dollars,PA
+2011,Pennsylvania,618987.7,Millions of current dollars,PA
+2012,Pennsylvania,641317.3,Millions of current dollars,PA
+2013,Pennsylvania,663900.8,Millions of current dollars,PA
+2014,Pennsylvania,691187.5,Millions of current dollars,PA
+2015,Pennsylvania,711205.4,Millions of current dollars,PA
+2016,Pennsylvania,726163.9,Millions of current dollars,PA
+2000,Rhode Island,34516.4,Millions of current dollars,RI
+2001,Rhode Island,35992.1,Millions of current dollars,RI
+2002,Rhode Island,38132.1,Millions of current dollars,RI
+2003,Rhode Island,40272.8,Millions of current dollars,RI
+2004,Rhode Island,43245.6,Millions of current dollars,RI
+2005,Rhode Island,45162.4,Millions of current dollars,RI
+2006,Rhode Island,47711.8,Millions of current dollars,RI
+2007,Rhode Island,47845.6,Millions of current dollars,RI
+2008,Rhode Island,47107.8,Millions of current dollars,RI
+2009,Rhode Island,47901.4,Millions of current dollars,RI
+2010,Rhode Island,49571.8,Millions of current dollars,RI
+2011,Rhode Island,50175.9,Millions of current dollars,RI
+2012,Rhode Island,51642.0,Millions of current dollars,RI
+2013,Rhode Island,53209.9,Millions of current dollars,RI
+2014,Rhode Island,54427.3,Millions of current dollars,RI
+2015,Rhode Island,56759.4,Millions of current dollars,RI
+2016,Rhode Island,57693.9,Millions of current dollars,RI
+2000,South Carolina,115246.8,Millions of current dollars,SC
+2001,South Carolina,119301.4,Millions of current dollars,SC
+2002,South Carolina,124160.1,Millions of current dollars,SC
+2003,South Carolina,130337.4,Millions of current dollars,SC
+2004,South Carolina,135160.1,Millions of current dollars,SC
+2005,South Carolina,142616.6,Millions of current dollars,SC
+2006,South Carolina,150659.1,Millions of current dollars,SC
+2007,South Carolina,159362.5,Millions of current dollars,SC
+2008,South Carolina,161804.7,Millions of current dollars,SC
+2009,South Carolina,159835.6,Millions of current dollars,SC
+2010,South Carolina,163856.8,Millions of current dollars,SC
+2011,South Carolina,170087.2,Millions of current dollars,SC
+2012,South Carolina,175374.8,Millions of current dollars,SC
+2013,South Carolina,183014.9,Millions of current dollars,SC
+2014,South Carolina,191938.2,Millions of current dollars,SC
+2015,South Carolina,203920.9,Millions of current dollars,SC
+2016,South Carolina,212987.4,Millions of current dollars,SC
+2000,South Dakota,22690.7,Millions of current dollars,SD
+2001,South Dakota,23512.8,Millions of current dollars,SD
+2002,South Dakota,26337.5,Millions of current dollars,SD
+2003,South Dakota,27445.0,Millions of current dollars,SD
+2004,South Dakota,29628.9,Millions of current dollars,SD
+2005,South Dakota,30659.4,Millions of current dollars,SD
+2006,South Dakota,31898.6,Millions of current dollars,SD
+2007,South Dakota,34701.6,Millions of current dollars,SD
+2008,South Dakota,36668.5,Millions of current dollars,SD
+2009,South Dakota,36193.1,Millions of current dollars,SD
+2010,South Dakota,37484.4,Millions of current dollars,SD
+2011,South Dakota,41541.5,Millions of current dollars,SD
+2012,South Dakota,43444.6,Millions of current dollars,SD
+2013,South Dakota,44814.9,Millions of current dollars,SD
+2014,South Dakota,46046.5,Millions of current dollars,SD
+2015,South Dakota,47752.3,Millions of current dollars,SD
+2016,South Dakota,48606.1,Millions of current dollars,SD
+2000,Tennessee,181629.5,Millions of current dollars,TN
+2001,Tennessee,185774.7,Millions of current dollars,TN
+2002,Tennessee,195289.2,Millions of current dollars,TN
+2003,Tennessee,203833.7,Millions of current dollars,TN
+2004,Tennessee,218020.6,Millions of current dollars,TN
+2005,Tennessee,228099.4,Millions of current dollars,TN
+2006,Tennessee,240193.9,Millions of current dollars,TN
+2007,Tennessee,244252.4,Millions of current dollars,TN
+2008,Tennessee,251609.0,Millions of current dollars,TN
+2009,Tennessee,250544.4,Millions of current dollars,TN
+2010,Tennessee,255935.8,Millions of current dollars,TN
+2011,Tennessee,267659.1,Millions of current dollars,TN
+2012,Tennessee,283721.8,Millions of current dollars,TN
+2013,Tennessee,292803.9,Millions of current dollars,TN
+2014,Tennessee,303809.0,Millions of current dollars,TN
+2015,Tennessee,322663.6,Millions of current dollars,TN
+2016,Tennessee,335025.7,Millions of current dollars,TN
+2000,Texas,738871.0,Millions of current dollars,TX
+2001,Texas,773006.7,Millions of current dollars,TX
+2002,Texas,787257.8,Millions of current dollars,TX
+2003,Texas,829764.4,Millions of current dollars,TX
+2004,Texas,906321.0,Millions of current dollars,TX
+2005,Texas,986401.3,Millions of current dollars,TX
+2006,Texas,1085294.9,Millions of current dollars,TX
+2007,Texas,1178583.1,Millions of current dollars,TX
+2008,Texas,1237394.9,Millions of current dollars,TX
+2009,Texas,1163401.3,Millions of current dollars,TX
+2010,Texas,1237196.8,Millions of current dollars,TX
+2011,Texas,1331220.6,Millions of current dollars,TX
+2012,Texas,1411378.7,Millions of current dollars,TX
+2013,Texas,1502249.8,Millions of current dollars,TX
+2014,Texas,1572818.4,Millions of current dollars,TX
+2015,Texas,1568457.0,Millions of current dollars,TX
+2016,Texas,1565632.2,Millions of current dollars,TX
+2000,Utah,70291.8,Millions of current dollars,UT
+2001,Utah,73226.0,Millions of current dollars,UT
+2002,Utah,75998.8,Millions of current dollars,UT
+2003,Utah,79149.1,Millions of current dollars,UT
+2004,Utah,85701.9,Millions of current dollars,UT
+2005,Utah,94194.9,Millions of current dollars,UT
+2006,Utah,106124.2,Millions of current dollars,UT
+2007,Utah,114652.7,Millions of current dollars,UT
+2008,Utah,115985.4,Millions of current dollars,UT
+2009,Utah,113332.9,Millions of current dollars,UT
+2010,Utah,117960.5,Millions of current dollars,UT
+2011,Utah,124539.4,Millions of current dollars,UT
+2012,Utah,128721.0,Millions of current dollars,UT
+2013,Utah,134252.1,Millions of current dollars,UT
+2014,Utah,141259.7,Millions of current dollars,UT
+2015,Utah,149371.6,Millions of current dollars,UT
+2016,Utah,157883.3,Millions of current dollars,UT
+2000,Vermont,18311.9,Millions of current dollars,VT
+2001,Vermont,19274.1,Millions of current dollars,VT
+2002,Vermont,20163.3,Millions of current dollars,VT
+2003,Vermont,21130.1,Millions of current dollars,VT
+2004,Vermont,22666.0,Millions of current dollars,VT
+2005,Vermont,23509.3,Millions of current dollars,VT
+2006,Vermont,24309.8,Millions of current dollars,VT
+2007,Vermont,24696.8,Millions of current dollars,VT
+2008,Vermont,25678.0,Millions of current dollars,VT
+2009,Vermont,25867.8,Millions of current dollars,VT
+2010,Vermont,27108.4,Millions of current dollars,VT
+2011,Vermont,28135.1,Millions of current dollars,VT
+2012,Vermont,28887.4,Millions of current dollars,VT
+2013,Vermont,29098.8,Millions of current dollars,VT
+2014,Vermont,29701.3,Millions of current dollars,VT
+2015,Vermont,30729.6,Millions of current dollars,VT
+2016,Vermont,31659.0,Millions of current dollars,VT
+2000,Virginia,266886.4,Millions of current dollars,VA
+2001,Virginia,284001.9,Millions of current dollars,VA
+2002,Virginia,293275.9,Millions of current dollars,VA
+2003,Virginia,309981.2,Millions of current dollars,VA
+2004,Virginia,332250.6,Millions of current dollars,VA
+2005,Virginia,360299.8,Millions of current dollars,VA
+2006,Virginia,379129.4,Millions of current dollars,VA
+2007,Virginia,392917.3,Millions of current dollars,VA
+2008,Virginia,399032.1,Millions of current dollars,VA
+2009,Virginia,408918.7,Millions of current dollars,VA
+2010,Virginia,422902.0,Millions of current dollars,VA
+2011,Virginia,432392.7,Millions of current dollars,VA
+2012,Virginia,444950.0,Millions of current dollars,VA
+2013,Virginia,455070.0,Millions of current dollars,VA
+2014,Virginia,463477.6,Millions of current dollars,VA
+2015,Virginia,484216.6,Millions of current dollars,VA
+2016,Virginia,493877.9,Millions of current dollars,VA
+2000,West Virginia,42606.9,Millions of current dollars,WV
+2001,West Virginia,43977.6,Millions of current dollars,WV
+2002,West Virginia,45433.7,Millions of current dollars,WV
+2003,West Virginia,46667.9,Millions of current dollars,WV
+2004,West Virginia,49271.7,Millions of current dollars,WV
+2005,West Virginia,53259.0,Millions of current dollars,WV
+2006,West Virginia,56530.0,Millions of current dollars,WV
+2007,West Virginia,58635.8,Millions of current dollars,WV
+2008,West Virginia,62066.7,Millions of current dollars,WV
+2009,West Virginia,62957.8,Millions of current dollars,WV
+2010,West Virginia,65274.1,Millions of current dollars,WV
+2011,West Virginia,68524.9,Millions of current dollars,WV
+2012,West Virginia,69399.0,Millions of current dollars,WV
+2013,West Virginia,71037.6,Millions of current dollars,WV
+2014,West Virginia,71919.2,Millions of current dollars,WV
+2015,West Virginia,70281.0,Millions of current dollars,WV
+2016,West Virginia,69721.4,Millions of current dollars,WV
+2000,Wisconsin,180539.0,Millions of current dollars,WI
+2001,Wisconsin,187939.3,Millions of current dollars,WI
+2002,Wisconsin,194813.1,Millions of current dollars,WI
+2003,Wisconsin,203134.7,Millions of current dollars,WI
+2004,Wisconsin,215138.9,Millions of current dollars,WI
+2005,Wisconsin,225697.9,Millions of current dollars,WI
+2006,Wisconsin,235708.6,Millions of current dollars,WI
+2007,Wisconsin,243766.7,Millions of current dollars,WI
+2008,Wisconsin,244759.9,Millions of current dollars,WI
+2009,Wisconsin,245539.0,Millions of current dollars,WI
+2010,Wisconsin,254354.1,Millions of current dollars,WI
+2011,Wisconsin,263881.6,Millions of current dollars,WI
+2012,Wisconsin,274343.9,Millions of current dollars,WI
+2013,Wisconsin,282384.6,Millions of current dollars,WI
+2014,Wisconsin,293884.6,Millions of current dollars,WI
+2015,Wisconsin,305816.5,Millions of current dollars,WI
+2016,Wisconsin,313532.4,Millions of current dollars,WI
+2000,Wyoming,17205.4,Millions of current dollars,WY
+2001,Wyoming,18660.7,Millions of current dollars,WY
+2002,Wyoming,19115.6,Millions of current dollars,WY
+2003,Wyoming,21027.5,Millions of current dollars,WY
+2004,Wyoming,23186.7,Millions of current dollars,WY
+2005,Wyoming,27177.6,Millions of current dollars,WY
+2006,Wyoming,32405.1,Millions of current dollars,WY
+2007,Wyoming,36602.5,Millions of current dollars,WY
+2008,Wyoming,42540.4,Millions of current dollars,WY
+2009,Wyoming,36042.2,Millions of current dollars,WY
+2010,Wyoming,37401.2,Millions of current dollars,WY
+2011,Wyoming,39370.7,Millions of current dollars,WY
+2012,Wyoming,38431.7,Millions of current dollars,WY
+2013,Wyoming,38922.5,Millions of current dollars,WY
+2014,Wyoming,39436.1,Millions of current dollars,WY
+2015,Wyoming,37721.5,Millions of current dollars,WY
+2016,Wyoming,35740.3,Millions of current dollars,WY
